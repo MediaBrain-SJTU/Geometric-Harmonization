@@ -1,8 +1,8 @@
 <h1 align="center">Combating Representation Learning Disparity<br>with Geometric Harmonization</h1>
 
 <p align="center">
-    <a href="https://arxiv.org/abs/2310.17622"><img src="https://img.shields.io/badge/arXiv-2302.05080-b31b1b.svg" alt="Paper"></a>
-    <a href="https://openreview.net/forum?id=geLARFEK8O"><img src="https://img.shields.io/badge/OpenReview-NeurIPS'23-blue" alt="Paper"></a>
+    <a href="https://arxiv.org/abs/2310.17622"><img src="https://img.shields.io/badge/arXiv-2310.17622-b31b1b.svg" alt="Paper"></a>
+    <a href="https://openreview.net/forum?id=geLARFEK8O"><img src="https://img.shields.io/badge/OpenReview-NeurIPS'23 Spotlight-blue" alt="Paper"></a>
     <a href="https://github.com/MediaBrain-SJTU/Geometric-Harmonization"><img src="https://img.shields.io/badge/Github-GH-brightgreen?logo=github" alt="Github"></a>
     <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/70835.png?t=1699436032.259549"> <img src="https://img.shields.io/badge/Poster-grey?logo=airplayvideo&logoColor=white" alt="Poster"></a>
 </p>
