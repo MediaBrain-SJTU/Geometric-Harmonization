@@ -48,7 +48,7 @@ If you find our work inspiring or use our codebase in your research, please cons
 After the preparation work, the whole project should have the following structure:
 
 ```
-./Boosted-Contrastive-Learning
+./Geometric-Harmonization
 ├── README.md
 ├── BCL                             # Baseline BCL implementation
 │   ├── memoboosted_cifar100.py
